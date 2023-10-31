@@ -10,6 +10,7 @@ Let's work together!
 ## View My Portfolio
 Find my portfolio at [lauriehimmel.com](https://lauriehimmel.com/). I had a lot of fun making it - let me know what you think!
 
+## Currently Working On
 <!--
 **lauriehimmel/lauriehimmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
