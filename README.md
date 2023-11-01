@@ -11,6 +11,14 @@ Let's work together!
 Find my portfolio at [lauriehimmel.com](https://lauriehimmel.com/). I had a lot of fun making it - let me know what you think!
 
 ## Currently Working On
+Just finished getting my portfolio live! Next up:
+- recreating my first project, [Mastermind](https://github.com/lauriehimmel/Mastermind), in React
+- adding additional features to [Wink](https://github.com/lauriehimmel/wink)
+- a yet-to-be-decided Django project..!
+
+## Get In Touch
+Send me an email: <lauriehimmel0@gmail.com>    
+Add me on LinkedIn: [in/lauriehimmel](https://www.linkedin.com/in/laurie-himmel/)
 <!--
 **lauriehimmel/lauriehimmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
