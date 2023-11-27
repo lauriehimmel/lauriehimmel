@@ -5,7 +5,9 @@ I'm a software engineer with a collaborative spirit and a designer's eye. With e
 Let's work together!
 
 * 🖥️  See my portfolio at [lauriehimmel.com](http://lauriehimmel.com)
-* 📝  Currently working on recreating [Mastermind](https://github.com/lauriehimmel/Mastermind) (my very first project!) in React
+* 📝  Currently working on:
+  - recreating [Mastermind](https://github.com/lauriehimmel/Mastermind) (my very first project!) in React
+  - a project involving Python, UFOs, and data visualization along with 2 other developers
 * 📫  Get in touch with me at [lauriehimmel1@gmail.com](mailto:lauriehimmel1@gmail.com)
 * 🤝 Add me on [LinkedIn](https://www.linkedin.com/in/laurie-himmel/)
 
