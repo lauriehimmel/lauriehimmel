@@ -1,4 +1,4 @@
-Hi 👋 My name is Laurie.
+Hi! I'm Laurie.
 ========================
 
 I'm a software engineer with a collaborative spirit and a designer's eye. With extensive eCommerce experience, I excel at communicating with users, empathizing with their needs, and solving their problems. As a versatile dev I communicate with clarity and compassion. Curiosity and creativity drive me; I look for innovative solutions and am always on the hunt for increased efficiency.    
