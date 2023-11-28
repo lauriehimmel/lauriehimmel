@@ -6,7 +6,6 @@ Let's work together!
 
 * 🖥️  See my portfolio at [lauriehimmel.com](http://lauriehimmel.com)
 * 📝  Currently working on:
-  - recreating [Mastermind](https://github.com/lauriehimmel/Mastermind) (my very first project!) in React
   - a collaborative project using Python
   - learning TypeScript!
 * 📫  Get in touch with me at [lauriehimmel1@gmail.com](mailto:lauriehimmel1@gmail.com)
